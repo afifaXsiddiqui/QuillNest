@@ -16,7 +16,7 @@ The platform allows users to write, discover, and interact with stories in a cle
 
 | Create Post                                                              | User Profile                                                          |
 | ------------------------------------------------------------------------ | --------------------------------------------------------------------- |
-| <img src="./images/Create.png" alt="Create Post" width="100%"> | <img src="./images/Profile.png" alt="User Profile" width="100%"> |
+| <img src="./images/Create.jpg" alt="Create Post" width="100%"> | <img src="./images/Profile.jpg" alt="User Profile" width="100%"> |
 
 </div>
 

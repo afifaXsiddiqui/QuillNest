@@ -6,6 +6,25 @@ The platform allows users to write, discover, and interact with stories in a cle
 
 ---
 
+## Project Preview
+
+<div align="center">
+
+| Home Page                                                       | Blog Post Page                                                       |
+| --------------------------------------------------------------- | -------------------------------------------------------------------- |
+| <img src="./images/Home.jpg" alt="Home Page" width="100%"> | <img src="./images/Post.jpg" alt="Blog Post Page" width="100%"> |
+
+| Create Post                                                              | User Profile                                                          |
+| ------------------------------------------------------------------------ | --------------------------------------------------------------------- |
+| <img src="./images/Create.png" alt="Create Post" width="100%"> | <img src="./images/Profile.png" alt="User Profile" width="100%"> |
+
+</div>
+
+> A quick look at the main user experience, including content discovery, post creation, and profile management.
+
+---
+
+
 ## Project Overview
 
 This project was built as part of a full-stack development with the goal of creating a blogging platform that combines modern UI/UX with practical backend functionality.

@@ -101,7 +101,7 @@ Admins can:
 
 ### AI Integration
 
-- Google AI API
+- OpenRouter AI API
 
 ### Version Control
 
